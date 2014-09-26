@@ -11,6 +11,8 @@ Desenvolvimento de aplicativos Web
 
 [Curso básico de Git] (https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0) - Foi assistindo esses vídeos que compreendi o funcionamento da ferramenta Git assim como configurar conta do Github
 
+[TryGit] (https://try.github.io/levels/) - ferramenta que auxilia a fixação dos comandos
+
 
 
 # CakePHP
