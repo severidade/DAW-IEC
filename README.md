@@ -13,4 +13,4 @@ Desenvolvimento de aplicativos Web
 
 [TryGit] (https://try.github.io/levels/) - ferramenta que auxilia a fixação dos comandos
 
-[![Marco Severo](http://severidade.com.br/imagens/s.gif)](http://severidade.wix.com/marco)
+[![Marco Severo](http://severidade.com.br/imagens/ondas.gif)](http://severidade.wix.com/marco)
